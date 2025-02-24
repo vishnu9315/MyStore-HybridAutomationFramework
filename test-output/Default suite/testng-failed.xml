@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.mystore.testcases.TC_MyAccountPageTest">
+      <class name="com.mystore.testcases.TC_ProductPageTest">
         <methods>
           <include name="tearDown"/>
-          <include name="verifyRegistrationAndLogin"/>
+          <include name="VerifySearchProduct"/>
           <include name="setUp"/>
         </methods>
-      </class> <!-- com.mystore.testcases.TC_MyAccountPageTest -->
+      </class> <!-- com.mystore.testcases.TC_ProductPageTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

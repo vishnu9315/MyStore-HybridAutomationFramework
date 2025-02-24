@@ -35,6 +35,28 @@ public class ReadConfig {
 		}
 		
 	}
+	
+	public String getEmail() {
+		String email = properties.getProperty("email");
+		
+		if(email != null) {
+			return email;
+		}else {
+			throw new RuntimeException("email not found in Config file"); 
+		}
+		
+	}
+	
+	public String getPassword() {
+		String password = properties.getProperty("password");
+		
+		if(password != null) {
+			return password;
+		}else {
+			throw new RuntimeException("password not found in Config file"); 
+		}
+		
+	}
 	public String getBrowser() {
 		String url = properties.getProperty("browser");
 		

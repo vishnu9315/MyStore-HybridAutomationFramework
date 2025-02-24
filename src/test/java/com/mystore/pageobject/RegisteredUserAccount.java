@@ -19,6 +19,20 @@ WebDriver ldriver;
 	@FindBy(linkText =  "Sign out")
 	WebElement signout;
 	
+	@FindBy(id  =  "search_query_top")
+	WebElement search;
+	
+	@FindBy(name  =  "submit_search")
+	WebElement searchBtn;
+	
+	
+	public void EnterText(String value) {
+		search.sendKeys(value);
+	}
+	
+	public void Search() {
+		searchBtn.click();
+	}
 	
 	
 	public String verifyUserId() {

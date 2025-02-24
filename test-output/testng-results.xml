@@ -1,63 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="1" total="3" passed="2" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-02-21T16:22:23 IST" name="Suite" finished-at="2025-02-21T16:22:43 IST" duration-ms="19790">
+  <suite started-at="2025-02-24T14:56:50 IST" name="Suite" finished-at="2025-02-24T14:57:03 IST" duration-ms="12948">
     <groups>
     </groups>
-    <test started-at="2025-02-21T16:22:23 IST" name="Test" finished-at="2025-02-21T16:22:43 IST" duration-ms="19790">
-      <class name="com.mystore.testcases.TC_MyAccountPageTestDataDriven">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.mystore.testcases.TC_MyAccountPageTestDataDriven@75d4a5c2]" started-at="2025-02-21T16:22:23 IST" name="setUp" finished-at="2025-02-21T16:22:32 IST" duration-ms="8416" status="PASS">
+    <test started-at="2025-02-24T14:56:50 IST" name="Test" finished-at="2025-02-24T14:57:03 IST" duration-ms="12948">
+      <class name="com.mystore.testcases.TC_ProductPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.mystore.testcases.TC_ProductPageTest@54d9d12d]" started-at="2025-02-24T14:56:51 IST" name="setUp" finished-at="2025-02-24T14:56:58 IST" duration-ms="7178" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="VerifyLogin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.mystore.testcases.TC_MyAccountPageTestDataDriven@75d4a5c2]" started-at="2025-02-21T16:22:34 IST" name="VerifyLogin" data-provider="LoginDataProvider" finished-at="2025-02-21T16:22:38 IST" duration-ms="4378" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[kumar123@gmail.com]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[myPass@12]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[Raj Mishra]]>
-              </value>
-            </param>
-          </params>
+        <test-method signature="VerifySearchProduct()[pri:0, instance:com.mystore.testcases.TC_ProductPageTest@54d9d12d]" started-at="2025-02-24T14:56:58 IST" name="VerifySearchProduct" finished-at="2025-02-24T14:57:03 IST" duration-ms="5059" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- VerifyLogin -->
-        <test-method signature="VerifyLogin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.mystore.testcases.TC_MyAccountPageTestDataDriven@75d4a5c2]" started-at="2025-02-21T16:22:38 IST" name="VerifyLogin" data-provider="LoginDataProvider" finished-at="2025-02-21T16:22:42 IST" duration-ms="4239" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[tillu123@gmail.com]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[Tillu@123]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[Tillu tika]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- VerifyLogin -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mystore.testcases.TC_MyAccountPageTestDataDriven@75d4a5c2]" started-at="2025-02-21T16:22:42 IST" name="tearDown" finished-at="2025-02-21T16:22:43 IST" duration-ms="335" status="PASS">
+        </test-method> <!-- VerifySearchProduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mystore.testcases.TC_ProductPageTest@54d9d12d]" started-at="2025-02-24T14:57:03 IST" name="tearDown" finished-at="2025-02-24T14:57:03 IST" duration-ms="199" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- com.mystore.testcases.TC_MyAccountPageTestDataDriven -->
+      </class> <!-- com.mystore.testcases.TC_ProductPageTest -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>

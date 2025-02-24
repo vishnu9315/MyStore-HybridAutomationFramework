@@ -16,8 +16,10 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
+import org.testng.annotations.DataProvider;
 
 import com.mystore.utilities.ReadConfig;
+import com.mystore.utilities.ReadExcelFile;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
@@ -27,6 +29,9 @@ public class BaseClass {
 	
 	String url = config.getUrl();
 	String browser = config.getBrowser();
+	
+	public String emailAddress = config.getEmail() ;
+	public String password = config.getPassword();
 	
 	public static WebDriver driver;
 	public static Logger logger;
@@ -72,8 +77,8 @@ public class BaseClass {
 	
 	public static void captureScreenshot(WebDriver driver, String testName) throws IOException {
         // Format timestamp for unique filename
-        String timestamp = new SimpleDateFormat("yyyyMMdd_HHmmss").format(new Date());
-        String filePath = System.getProperty("user.dir") + "//screenshot//" + testName + ".png";
+//        String timestamp = new SimpleDateFormat("yyyyMMdd_HHmmss").format(new Date());
+           String filePath = System.getProperty("user.dir") + "//screenshot//" + testName + ".png";
 
             // Take screenshot
             File srcFile = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
@@ -82,6 +87,9 @@ public class BaseClass {
             System.out.println("Screenshot saved: " + filePath);
        
         }
+	
+	
+	
     
 	
 	

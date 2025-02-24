@@ -1,5 +1,7 @@
 package com.mystore.pageobject;
 
+import java.sql.Driver;
+
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -25,6 +27,8 @@ public class MyAccount {
 	@FindBy(id = "passwd")
 	WebElement passwd;
 	
+	
+	
 	@FindBy(id = "SubmitLogin")
 	WebElement SubmitLogin;
 	
@@ -39,10 +43,12 @@ public class MyAccount {
 	}
 	
 	public void enterEmail(String em) {
+		email.clear();
 		email.sendKeys(em);
 	}
 	
 	public void enterPassword(String psw) {
+		passwd.clear();
 		passwd.sendKeys(psw);
 	}
 	
