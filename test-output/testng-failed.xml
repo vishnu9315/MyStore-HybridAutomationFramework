@@ -9,7 +9,6 @@
       <class name="com.mystore.testcases.TC_ProductPageTest">
         <methods>
           <include name="tearDown"/>
-          <include name="VerifySearchProduct"/>
           <include name="setUp"/>
           <include name="VerifyBuyProduct"/>
         </methods>

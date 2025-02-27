@@ -1,592 +1,234 @@
-[INFO ] 2025-02-25 11:24:09.824 [main] MyStoreV1 - Url Opened
-[INFO ] 2025-02-25 11:24:09.824 [main] MyStoreV1 - Url Opened
-[INFO ] 2025-02-25 11:24:09.894 [main] MyStoreV1 - ***************TestCase Verify Sign out starts*****************
-[INFO ] 2025-02-25 11:24:09.894 [main] MyStoreV1 - ***************TestCase Verify Sign out starts*****************
-[INFO ] 2025-02-25 11:24:11.082 [main] MyStoreV1 - Clicked on sign in link
-[INFO ] 2025-02-25 11:24:11.082 [main] MyStoreV1 - Clicked on sign in link
-[INFO ] 2025-02-25 11:24:11.343 [main] MyStoreV1 - Entered email address
-[INFO ] 2025-02-25 11:24:11.343 [main] MyStoreV1 - Entered email address
-[INFO ] 2025-02-25 11:24:11.540 [main] MyStoreV1 - Entered password
-[INFO ] 2025-02-25 11:24:11.540 [main] MyStoreV1 - Entered password
-[INFO ] 2025-02-25 11:24:12.687 [main] MyStoreV1 - Clicked on sign in link..
-[INFO ] 2025-02-25 11:24:12.687 [main] MyStoreV1 - Clicked on sign in link..
-[INFO ] 2025-02-25 11:24:13.907 [main] MyStoreV1 - VerifySignOut - Passed
-[INFO ] 2025-02-25 11:24:13.907 [main] MyStoreV1 - VerifySignOut - Passed
-[INFO ] 2025-02-25 11:24:13.914 [main] MyStoreV1 - ***************TestCase Verify Sign out ends*****************
-[INFO ] 2025-02-25 11:24:13.914 [main] MyStoreV1 - ***************TestCase Verify Sign out ends*****************
-[INFO ] 2025-02-25 11:26:29.970 [main] MyStoreV1 - Url Opened
-[INFO ] 2025-02-25 11:26:29.970 [main] MyStoreV1 - Url Opened
-[INFO ] 2025-02-25 11:26:30.025 [main] MyStoreV1 - ***************TestCase Verify Sign out starts*****************
-[INFO ] 2025-02-25 11:26:30.025 [main] MyStoreV1 - ***************TestCase Verify Sign out starts*****************
-[INFO ] 2025-02-25 11:26:31.424 [main] MyStoreV1 - Clicked on sign in link
-[INFO ] 2025-02-25 11:26:31.424 [main] MyStoreV1 - Clicked on sign in link
-[INFO ] 2025-02-25 11:26:31.695 [main] MyStoreV1 - Entered email address
-[INFO ] 2025-02-25 11:26:31.695 [main] MyStoreV1 - Entered email address
-[INFO ] 2025-02-25 11:26:31.928 [main] MyStoreV1 - Entered password
-[INFO ] 2025-02-25 11:26:31.928 [main] MyStoreV1 - Entered password
-[INFO ] 2025-02-25 11:26:33.065 [main] MyStoreV1 - Clicked on sign in link..
-[INFO ] 2025-02-25 11:26:33.065 [main] MyStoreV1 - Clicked on sign in link..
-[INFO ] 2025-02-25 11:26:34.284 [main] MyStoreV1 - VerifySignOut - Passed
-[INFO ] 2025-02-25 11:26:34.284 [main] MyStoreV1 - VerifySignOut - Passed
-[INFO ] 2025-02-25 11:26:34.290 [main] MyStoreV1 - ***************TestCase Verify Sign out ends*****************
-[INFO ] 2025-02-25 11:26:34.290 [main] MyStoreV1 - ***************TestCase Verify Sign out ends*****************
-[INFO ] 2025-02-25 11:38:10.303 [main] MyStoreV1 - Url Opened
-[INFO ] 2025-02-25 11:38:10.303 [main] MyStoreV1 - Url Opened
-[INFO ] 2025-02-25 11:38:10.325 [main] MyStoreV1 - 
+[INFO ] 2025-02-27 12:29:56.324 [main] MyStoreV1 - Url Opened
+[INFO ] 2025-02-27 12:29:56.324 [main] MyStoreV1 - Url Opened
+[INFO ] 2025-02-27 12:29:56.346 [main] MyStoreV1 - 
 ***************TestCase Search Product started*****************
-[INFO ] 2025-02-25 11:38:10.325 [main] MyStoreV1 - 
+[INFO ] 2025-02-27 12:29:56.346 [main] MyStoreV1 - 
 ***************TestCase Search Product started*****************
-[INFO ] 2025-02-25 11:38:11.450 [main] MyStoreV1 - User Email and Password entered.
-[INFO ] 2025-02-25 11:38:11.450 [main] MyStoreV1 - User Email and Password entered.
-[INFO ] 2025-02-25 11:38:12.573 [main] MyStoreV1 - Sign In link clicked
-[INFO ] 2025-02-25 11:38:12.573 [main] MyStoreV1 - Sign In link clicked
-[INFO ] 2025-02-25 11:38:13.691 [main] MyStoreV1 - Search Product testcase - Passed
-[INFO ] 2025-02-25 11:38:13.691 [main] MyStoreV1 - Search Product testcase - Passed
-[INFO ] 2025-02-25 11:38:14.622 [main] MyStoreV1 - ***************TestCase Search Product ends*****************
-[INFO ] 2025-02-25 11:38:14.622 [main] MyStoreV1 - ***************TestCase Search Product ends*****************
-[INFO ] 2025-02-25 12:02:51.632 [main] MyStoreV1 - Url Opened
-[INFO ] 2025-02-25 12:02:51.632 [main] MyStoreV1 - Url Opened
-[INFO ] 2025-02-25 12:02:51.647 [main] MyStoreV1 - 
-***************TestCase Search Product started*****************
-[INFO ] 2025-02-25 12:02:51.647 [main] MyStoreV1 - 
-***************TestCase Search Product started*****************
-[INFO ] 2025-02-25 12:02:52.879 [main] MyStoreV1 - User Email and Password entered.
-[INFO ] 2025-02-25 12:02:52.879 [main] MyStoreV1 - User Email and Password entered.
-[INFO ] 2025-02-25 12:02:54.100 [main] MyStoreV1 - Sign In link clicked
-[INFO ] 2025-02-25 12:02:54.100 [main] MyStoreV1 - Sign In link clicked
-[INFO ] 2025-02-25 12:02:55.239 [main] MyStoreV1 - Search Product testcase - Passed
-[INFO ] 2025-02-25 12:02:55.239 [main] MyStoreV1 - Search Product testcase - Passed
-[INFO ] 2025-02-25 12:02:56.137 [main] MyStoreV1 - ***************TestCase Search Product ends*****************
-[INFO ] 2025-02-25 12:02:56.137 [main] MyStoreV1 - ***************TestCase Search Product ends*****************
-[INFO ] 2025-02-25 12:19:52.721 [main] MyStoreV1 - Url Opened
-[INFO ] 2025-02-25 12:19:52.721 [main] MyStoreV1 - Url Opened
-[INFO ] 2025-02-25 12:19:52.736 [main] MyStoreV1 - 
-***************TestCase Search Product started*****************
-[INFO ] 2025-02-25 12:19:52.736 [main] MyStoreV1 - 
-***************TestCase Search Product started*****************
-[INFO ] 2025-02-25 12:19:53.902 [main] MyStoreV1 - User Email and Password entered.
-[INFO ] 2025-02-25 12:19:53.902 [main] MyStoreV1 - User Email and Password entered.
-[INFO ] 2025-02-25 12:19:55.022 [main] MyStoreV1 - Sign In link clicked
-[INFO ] 2025-02-25 12:19:55.022 [main] MyStoreV1 - Sign In link clicked
-[INFO ] 2025-02-25 12:19:56.073 [main] MyStoreV1 - Search Product testcase - Passed
-[INFO ] 2025-02-25 12:19:56.073 [main] MyStoreV1 - Search Product testcase - Passed
-[INFO ] 2025-02-25 12:19:56.890 [main] MyStoreV1 - ***************TestCase Search Product ends*****************
-[INFO ] 2025-02-25 12:19:56.890 [main] MyStoreV1 - ***************TestCase Search Product ends*****************
-[INFO ] 2025-02-25 12:25:41.678 [main] MyStoreV1 - Url Opened
-[INFO ] 2025-02-25 12:25:41.678 [main] MyStoreV1 - Url Opened
-[INFO ] 2025-02-25 12:25:41.697 [main] MyStoreV1 - ***************TestCase Verify Sign out starts*****************
-[INFO ] 2025-02-25 12:25:41.697 [main] MyStoreV1 - ***************TestCase Verify Sign out starts*****************
-[INFO ] 2025-02-25 12:25:42.739 [main] MyStoreV1 - Clicked on sign in link
-[INFO ] 2025-02-25 12:25:42.739 [main] MyStoreV1 - Clicked on sign in link
-[INFO ] 2025-02-25 12:25:42.906 [main] MyStoreV1 - Entered email address
-[INFO ] 2025-02-25 12:25:42.906 [main] MyStoreV1 - Entered email address
-[INFO ] 2025-02-25 12:25:43.024 [main] MyStoreV1 - Entered password
-[INFO ] 2025-02-25 12:25:43.024 [main] MyStoreV1 - Entered password
-[INFO ] 2025-02-25 12:25:44.010 [main] MyStoreV1 - Clicked on sign in link..
-[INFO ] 2025-02-25 12:25:44.010 [main] MyStoreV1 - Clicked on sign in link..
-[INFO ] 2025-02-25 12:25:45.093 [main] MyStoreV1 - VerifySignOut - Passed
-[INFO ] 2025-02-25 12:25:45.093 [main] MyStoreV1 - VerifySignOut - Passed
-[INFO ] 2025-02-25 12:25:45.095 [main] MyStoreV1 - ***************TestCase Verify Sign out ends*****************
-[INFO ] 2025-02-25 12:25:45.095 [main] MyStoreV1 - ***************TestCase Verify Sign out ends*****************
-[INFO ] 2025-02-25 12:25:52.043 [main] MyStoreV1 - Url Opened
-[INFO ] 2025-02-25 12:25:52.043 [main] MyStoreV1 - Url Opened
-[INFO ] 2025-02-25 12:25:52.043 [main] MyStoreV1 - 
-***************TestCase Search Product started*****************
-[INFO ] 2025-02-25 12:25:52.043 [main] MyStoreV1 - 
-***************TestCase Search Product started*****************
-[INFO ] 2025-02-25 12:25:53.195 [main] MyStoreV1 - User Email and Password entered.
-[INFO ] 2025-02-25 12:25:53.195 [main] MyStoreV1 - User Email and Password entered.
-[INFO ] 2025-02-25 12:25:54.332 [main] MyStoreV1 - Sign In link clicked
-[INFO ] 2025-02-25 12:25:54.332 [main] MyStoreV1 - Sign In link clicked
-[INFO ] 2025-02-25 12:25:55.688 [main] MyStoreV1 - Search Product testcase - Passed
-[INFO ] 2025-02-25 12:25:55.688 [main] MyStoreV1 - Search Product testcase - Passed
-[INFO ] 2025-02-25 12:25:56.536 [main] MyStoreV1 - ***************TestCase Search Product ends*****************
-[INFO ] 2025-02-25 12:25:56.536 [main] MyStoreV1 - ***************TestCase Search Product ends*****************
-[INFO ] 2025-02-25 15:00:20.921 [main] MyStoreV1 - Url Opened
-[INFO ] 2025-02-25 15:00:20.921 [main] MyStoreV1 - Url Opened
-[INFO ] 2025-02-25 15:00:20.954 [main] MyStoreV1 - 
+[INFO ] 2025-02-27 12:29:57.488 [main] MyStoreV1 - User Email and Password entered.
+[INFO ] 2025-02-27 12:29:57.488 [main] MyStoreV1 - User Email and Password entered.
+[INFO ] 2025-02-27 12:29:58.604 [main] MyStoreV1 - Sign In link clicked
+[INFO ] 2025-02-27 12:29:58.604 [main] MyStoreV1 - Sign In link clicked
+[INFO ] 2025-02-27 12:29:59.689 [main] MyStoreV1 - Search Product testcase - Passed
+[INFO ] 2025-02-27 12:29:59.689 [main] MyStoreV1 - Search Product testcase - Passed
+[INFO ] 2025-02-27 12:30:00.531 [main] MyStoreV1 - ***************TestCase Search Product ends*****************
+[INFO ] 2025-02-27 12:30:00.531 [main] MyStoreV1 - ***************TestCase Search Product ends*****************
+[INFO ] 2025-02-27 12:30:00.562 [main] MyStoreV1 - 
 ***************TestCase Buy Product started*****************
-[INFO ] 2025-02-25 15:00:20.954 [main] MyStoreV1 - 
+[INFO ] 2025-02-27 12:30:00.562 [main] MyStoreV1 - 
 ***************TestCase Buy Product started*****************
-[INFO ] 2025-02-25 15:00:25.780 [main] MyStoreV1 - User Email and Password entered.
-[INFO ] 2025-02-25 15:00:25.780 [main] MyStoreV1 - User Email and Password entered.
-[INFO ] 2025-02-25 15:00:28.293 [main] MyStoreV1 - Sign In link clicked
-[INFO ] 2025-02-25 15:00:28.293 [main] MyStoreV1 - Sign In link clicked
-[INFO ] 2025-02-25 15:00:28.463 [main] MyStoreV1 - T-shirt entered in search box
-[INFO ] 2025-02-25 15:00:28.463 [main] MyStoreV1 - T-shirt entered in search box
-[INFO ] 2025-02-25 15:00:31.691 [main] MyStoreV1 - clicked on search button
-[INFO ] 2025-02-25 15:00:31.691 [main] MyStoreV1 - clicked on search button
-[INFO ] 2025-02-25 15:00:41.844 [main] MyStoreV1 - 
+[INFO ] 2025-02-27 12:30:01.405 [main] MyStoreV1 - User Email and Password entered.
+[INFO ] 2025-02-27 12:30:01.405 [main] MyStoreV1 - User Email and Password entered.
+[INFO ] 2025-02-27 12:30:02.283 [main] MyStoreV1 - Sign In link clicked
+[INFO ] 2025-02-27 12:30:02.283 [main] MyStoreV1 - Sign In link clicked
+[INFO ] 2025-02-27 12:30:02.348 [main] MyStoreV1 - T-shirt entered in search box
+[INFO ] 2025-02-27 12:30:02.348 [main] MyStoreV1 - T-shirt entered in search box
+[INFO ] 2025-02-27 12:30:03.114 [main] MyStoreV1 - clicked on search button
+[INFO ] 2025-02-27 12:30:03.114 [main] MyStoreV1 - clicked on search button
+[INFO ] 2025-02-27 12:30:05.794 [main] MyStoreV1 - Clicked on more button
+[INFO ] 2025-02-27 12:30:05.794 [main] MyStoreV1 - Clicked on more button
+[INFO ] 2025-02-27 12:30:09.983 [main] MyStoreV1 - size M entered
+[INFO ] 2025-02-27 12:30:09.983 [main] MyStoreV1 - size M entered
+[INFO ] 2025-02-27 12:30:10.226 [main] MyStoreV1 - quantity 2 entereed
+[INFO ] 2025-02-27 12:30:10.226 [main] MyStoreV1 - quantity 2 entereed
+[INFO ] 2025-02-27 12:30:12.864 [main] MyStoreV1 - Clicked on proceed to checkout on product page
+[INFO ] 2025-02-27 12:30:12.864 [main] MyStoreV1 - Clicked on proceed to checkout on product page
+[INFO ] 2025-02-27 12:30:13.961 [main] MyStoreV1 - Clicked on proceed to checkout on order summary page
+[INFO ] 2025-02-27 12:30:13.961 [main] MyStoreV1 - Clicked on proceed to checkout on order summary page
+[INFO ] 2025-02-27 12:30:14.563 [main] MyStoreV1 - Clicked on proceed to checkout on order address page
+[INFO ] 2025-02-27 12:30:14.563 [main] MyStoreV1 - Clicked on proceed to checkout on order address page
+[INFO ] 2025-02-27 12:30:14.933 [main] MyStoreV1 - selecged term of service check box
+[INFO ] 2025-02-27 12:30:14.933 [main] MyStoreV1 - selecged term of service check box
+[INFO ] 2025-02-27 12:30:15.471 [main] MyStoreV1 - Clicked on proceed to checkout on order shipping page
+[INFO ] 2025-02-27 12:30:15.471 [main] MyStoreV1 - Clicked on proceed to checkout on order shipping page
+[INFO ] 2025-02-27 12:30:15.949 [main] MyStoreV1 - http://www.automationpractice.pl/index.php?controller=order
+[INFO ] 2025-02-27 12:30:15.949 [main] MyStoreV1 - http://www.automationpractice.pl/index.php?controller=order
+[INFO ] 2025-02-27 12:30:16.511 [main] MyStoreV1 - Clicked on pay by cheque
+[INFO ] 2025-02-27 12:30:16.511 [main] MyStoreV1 - Clicked on pay by cheque
+[INFO ] 2025-02-27 12:30:22.759 [main] MyStoreV1 - Clicked on confirmed order
+[INFO ] 2025-02-27 12:30:22.759 [main] MyStoreV1 - Clicked on confirmed order
+[INFO ] 2025-02-27 12:30:22.785 [main] MyStoreV1 - VerifyBuyProduct - Passed
+[INFO ] 2025-02-27 12:30:22.785 [main] MyStoreV1 - VerifyBuyProduct - Passed
+[INFO ] 2025-02-27 12:30:24.049 [main] MyStoreV1 - ***************TestCase BuyProduct ends*****************
+[INFO ] 2025-02-27 12:30:24.049 [main] MyStoreV1 - ***************TestCase BuyProduct ends*****************
+[INFO ] 2025-02-27 14:14:35.455 [main] MyStoreV1 - Url Opened
+[INFO ] 2025-02-27 14:14:35.455 [main] MyStoreV1 - Url Opened
+[INFO ] 2025-02-27 14:14:35.529 [main] MyStoreV1 - 
 ***************TestCase Search Product started*****************
-[INFO ] 2025-02-25 15:00:41.844 [main] MyStoreV1 - 
+[INFO ] 2025-02-27 14:14:35.529 [main] MyStoreV1 - 
 ***************TestCase Search Product started*****************
-[INFO ] 2025-02-25 15:01:45.280 [main] MyStoreV1 - Url Opened
-[INFO ] 2025-02-25 15:01:45.280 [main] MyStoreV1 - Url Opened
-[INFO ] 2025-02-25 15:01:45.326 [main] MyStoreV1 - 
+[INFO ] 2025-02-27 14:14:43.821 [main] MyStoreV1 - User Email and Password entered.
+[INFO ] 2025-02-27 14:14:43.821 [main] MyStoreV1 - User Email and Password entered.
+[INFO ] 2025-02-27 14:14:45.289 [main] MyStoreV1 - Sign In link clicked
+[INFO ] 2025-02-27 14:14:45.289 [main] MyStoreV1 - Sign In link clicked
+[INFO ] 2025-02-27 14:14:46.883 [main] MyStoreV1 - Search Product testcase - Passed
+[INFO ] 2025-02-27 14:14:46.883 [main] MyStoreV1 - Search Product testcase - Passed
+[INFO ] 2025-02-27 14:14:48.261 [main] MyStoreV1 - ***************TestCase Search Product ends*****************
+[INFO ] 2025-02-27 14:14:48.261 [main] MyStoreV1 - ***************TestCase Search Product ends*****************
+[INFO ] 2025-02-27 14:14:48.296 [main] MyStoreV1 - 
 ***************TestCase Buy Product started*****************
-[INFO ] 2025-02-25 15:01:45.326 [main] MyStoreV1 - 
+[INFO ] 2025-02-27 14:14:48.296 [main] MyStoreV1 - 
 ***************TestCase Buy Product started*****************
-[INFO ] 2025-02-25 15:01:47.334 [main] MyStoreV1 - User Email and Password entered.
-[INFO ] 2025-02-25 15:01:47.334 [main] MyStoreV1 - User Email and Password entered.
-[INFO ] 2025-02-25 15:01:49.715 [main] MyStoreV1 - Sign In link clicked
-[INFO ] 2025-02-25 15:01:49.715 [main] MyStoreV1 - Sign In link clicked
-[INFO ] 2025-02-25 15:01:49.857 [main] MyStoreV1 - T-shirt entered in search box
-[INFO ] 2025-02-25 15:01:49.857 [main] MyStoreV1 - T-shirt entered in search box
-[INFO ] 2025-02-25 15:01:52.489 [main] MyStoreV1 - clicked on search button
-[INFO ] 2025-02-25 15:01:52.489 [main] MyStoreV1 - clicked on search button
-[INFO ] 2025-02-25 15:02:05.682 [main] MyStoreV1 - Clicked on more button
-[INFO ] 2025-02-25 15:02:05.682 [main] MyStoreV1 - Clicked on more button
-[INFO ] 2025-02-25 15:02:10.072 [main] MyStoreV1 - size M entered
-[INFO ] 2025-02-25 15:02:10.072 [main] MyStoreV1 - size M entered
-[INFO ] 2025-02-25 15:02:10.410 [main] MyStoreV1 - quantity 2 entereed
-[INFO ] 2025-02-25 15:02:10.410 [main] MyStoreV1 - quantity 2 entereed
-[INFO ] 2025-02-25 15:02:12.652 [main] MyStoreV1 - Clicked on proceed to checkout on product page
-[INFO ] 2025-02-25 15:02:12.652 [main] MyStoreV1 - Clicked on proceed to checkout on product page
-[INFO ] 2025-02-25 15:02:14.544 [main] MyStoreV1 - Clicked on proceed to checkout on order summary page
-[INFO ] 2025-02-25 15:02:14.544 [main] MyStoreV1 - Clicked on proceed to checkout on order summary page
-[INFO ] 2025-02-25 15:02:24.745 [main] MyStoreV1 - 
+[INFO ] 2025-02-27 14:14:49.533 [main] MyStoreV1 - User Email and Password entered.
+[INFO ] 2025-02-27 14:14:49.533 [main] MyStoreV1 - User Email and Password entered.
+[INFO ] 2025-02-27 14:14:50.813 [main] MyStoreV1 - Sign In link clicked
+[INFO ] 2025-02-27 14:14:50.813 [main] MyStoreV1 - Sign In link clicked
+[INFO ] 2025-02-27 14:14:50.910 [main] MyStoreV1 - T-shirt entered in search box
+[INFO ] 2025-02-27 14:14:50.910 [main] MyStoreV1 - T-shirt entered in search box
+[INFO ] 2025-02-27 14:14:51.805 [main] MyStoreV1 - clicked on search button
+[INFO ] 2025-02-27 14:14:51.805 [main] MyStoreV1 - clicked on search button
+[INFO ] 2025-02-27 14:20:17.430 [main] MyStoreV1 - Url Opened
+[INFO ] 2025-02-27 14:20:17.430 [main] MyStoreV1 - Url Opened
+[INFO ] 2025-02-27 14:20:17.464 [main] MyStoreV1 - 
 ***************TestCase Search Product started*****************
-[INFO ] 2025-02-25 15:02:24.745 [main] MyStoreV1 - 
+[INFO ] 2025-02-27 14:20:17.464 [main] MyStoreV1 - 
 ***************TestCase Search Product started*****************
-[INFO ] 2025-02-25 15:31:05.280 [main] MyStoreV1 - Url Opened
-[INFO ] 2025-02-25 15:31:05.280 [main] MyStoreV1 - Url Opened
-[INFO ] 2025-02-25 15:31:05.345 [main] MyStoreV1 - 
+[INFO ] 2025-02-27 14:20:19.112 [main] MyStoreV1 - User Email and Password entered.
+[INFO ] 2025-02-27 14:20:19.112 [main] MyStoreV1 - User Email and Password entered.
+[INFO ] 2025-02-27 14:20:20.655 [main] MyStoreV1 - Sign In link clicked
+[INFO ] 2025-02-27 14:20:20.655 [main] MyStoreV1 - Sign In link clicked
+[INFO ] 2025-02-27 14:20:22.092 [main] MyStoreV1 - Search Product testcase - Passed
+[INFO ] 2025-02-27 14:20:22.092 [main] MyStoreV1 - Search Product testcase - Passed
+[INFO ] 2025-02-27 14:20:23.292 [main] MyStoreV1 - ***************TestCase Search Product ends*****************
+[INFO ] 2025-02-27 14:20:23.292 [main] MyStoreV1 - ***************TestCase Search Product ends*****************
+[INFO ] 2025-02-27 14:20:23.342 [main] MyStoreV1 - 
 ***************TestCase Buy Product started*****************
-[INFO ] 2025-02-25 15:31:05.345 [main] MyStoreV1 - 
+[INFO ] 2025-02-27 14:20:23.342 [main] MyStoreV1 - 
 ***************TestCase Buy Product started*****************
-[INFO ] 2025-02-25 15:31:07.111 [main] MyStoreV1 - User Email and Password entered.
-[INFO ] 2025-02-25 15:31:07.111 [main] MyStoreV1 - User Email and Password entered.
-[INFO ] 2025-02-25 15:31:08.617 [main] MyStoreV1 - Sign In link clicked
-[INFO ] 2025-02-25 15:31:08.617 [main] MyStoreV1 - Sign In link clicked
-[INFO ] 2025-02-25 15:31:08.756 [main] MyStoreV1 - T-shirt entered in search box
-[INFO ] 2025-02-25 15:31:08.756 [main] MyStoreV1 - T-shirt entered in search box
-[INFO ] 2025-02-25 15:31:09.434 [main] MyStoreV1 - clicked on search button
-[INFO ] 2025-02-25 15:31:09.434 [main] MyStoreV1 - clicked on search button
-[INFO ] 2025-02-25 15:31:20.195 [main] MyStoreV1 - 
+[INFO ] 2025-02-27 14:20:24.575 [main] MyStoreV1 - User Email and Password entered.
+[INFO ] 2025-02-27 14:20:24.575 [main] MyStoreV1 - User Email and Password entered.
+[INFO ] 2025-02-27 14:20:25.650 [main] MyStoreV1 - Sign In link clicked
+[INFO ] 2025-02-27 14:20:25.650 [main] MyStoreV1 - Sign In link clicked
+[INFO ] 2025-02-27 14:20:25.764 [main] MyStoreV1 - T-shirt entered in search box
+[INFO ] 2025-02-27 14:20:25.764 [main] MyStoreV1 - T-shirt entered in search box
+[INFO ] 2025-02-27 14:20:26.500 [main] MyStoreV1 - clicked on search button
+[INFO ] 2025-02-27 14:20:26.500 [main] MyStoreV1 - clicked on search button
+[INFO ] 2025-02-27 14:20:31.494 [main] MyStoreV1 - Clicked on more button
+[INFO ] 2025-02-27 14:20:31.494 [main] MyStoreV1 - Clicked on more button
+[INFO ] 2025-02-27 14:20:35.838 [main] MyStoreV1 - size M entered
+[INFO ] 2025-02-27 14:20:35.838 [main] MyStoreV1 - size M entered
+[INFO ] 2025-02-27 14:20:36.147 [main] MyStoreV1 - quantity 2 entereed
+[INFO ] 2025-02-27 14:20:36.147 [main] MyStoreV1 - quantity 2 entereed
+[INFO ] 2025-02-27 14:20:37.843 [main] MyStoreV1 - Clicked on proceed to checkout on product page
+[INFO ] 2025-02-27 14:20:37.843 [main] MyStoreV1 - Clicked on proceed to checkout on product page
+[INFO ] 2025-02-27 14:20:39.075 [main] MyStoreV1 - Clicked on proceed to checkout on order summary page
+[INFO ] 2025-02-27 14:20:39.075 [main] MyStoreV1 - Clicked on proceed to checkout on order summary page
+[INFO ] 2025-02-27 14:20:39.685 [main] MyStoreV1 - Clicked on proceed to checkout on order address page
+[INFO ] 2025-02-27 14:20:39.685 [main] MyStoreV1 - Clicked on proceed to checkout on order address page
+[INFO ] 2025-02-27 14:20:40.257 [main] MyStoreV1 - selecged term of service check box
+[INFO ] 2025-02-27 14:20:40.257 [main] MyStoreV1 - selecged term of service check box
+[INFO ] 2025-02-27 14:20:41.665 [main] MyStoreV1 - Clicked on proceed to checkout on order shipping page
+[INFO ] 2025-02-27 14:20:41.665 [main] MyStoreV1 - Clicked on proceed to checkout on order shipping page
+[INFO ] 2025-02-27 14:20:41.705 [main] MyStoreV1 - http://www.automationpractice.pl/index.php?controller=order
+[INFO ] 2025-02-27 14:20:41.705 [main] MyStoreV1 - http://www.automationpractice.pl/index.php?controller=order
+[INFO ] 2025-02-27 14:20:42.459 [main] MyStoreV1 - Clicked on pay by cheque
+[INFO ] 2025-02-27 14:20:42.459 [main] MyStoreV1 - Clicked on pay by cheque
+[INFO ] 2025-02-27 14:20:49.077 [main] MyStoreV1 - Clicked on confirmed order
+[INFO ] 2025-02-27 14:20:49.077 [main] MyStoreV1 - Clicked on confirmed order
+[INFO ] 2025-02-27 14:20:49.139 [main] MyStoreV1 - VerifyBuyProduct - Passed
+[INFO ] 2025-02-27 14:20:49.139 [main] MyStoreV1 - VerifyBuyProduct - Passed
+[INFO ] 2025-02-27 14:20:50.594 [main] MyStoreV1 - ***************TestCase BuyProduct ends*****************
+[INFO ] 2025-02-27 14:20:50.594 [main] MyStoreV1 - ***************TestCase BuyProduct ends*****************
+[INFO ] 2025-02-27 14:21:54.092 [main] MyStoreV1 - Url Opened
+[INFO ] 2025-02-27 14:21:54.092 [main] MyStoreV1 - Url Opened
+[INFO ] 2025-02-27 14:21:54.122 [main] MyStoreV1 - 
 ***************TestCase Search Product started*****************
-[INFO ] 2025-02-25 15:31:20.195 [main] MyStoreV1 - 
+[INFO ] 2025-02-27 14:21:54.122 [main] MyStoreV1 - 
 ***************TestCase Search Product started*****************
-[INFO ] 2025-02-25 15:31:49.715 [main] MyStoreV1 - Url Opened
-[INFO ] 2025-02-25 15:31:49.715 [main] MyStoreV1 - Url Opened
-[INFO ] 2025-02-25 15:31:49.769 [main] MyStoreV1 - 
+[INFO ] 2025-02-27 14:21:55.515 [main] MyStoreV1 - User Email and Password entered.
+[INFO ] 2025-02-27 14:21:55.515 [main] MyStoreV1 - User Email and Password entered.
+[INFO ] 2025-02-27 14:21:56.867 [main] MyStoreV1 - Sign In link clicked
+[INFO ] 2025-02-27 14:21:56.867 [main] MyStoreV1 - Sign In link clicked
+[INFO ] 2025-02-27 14:21:58.267 [main] MyStoreV1 - Search Product testcase - Passed
+[INFO ] 2025-02-27 14:21:58.267 [main] MyStoreV1 - Search Product testcase - Passed
+[INFO ] 2025-02-27 14:21:59.416 [main] MyStoreV1 - ***************TestCase Search Product ends*****************
+[INFO ] 2025-02-27 14:21:59.416 [main] MyStoreV1 - ***************TestCase Search Product ends*****************
+[INFO ] 2025-02-27 14:21:59.462 [main] MyStoreV1 - 
 ***************TestCase Buy Product started*****************
-[INFO ] 2025-02-25 15:31:49.769 [main] MyStoreV1 - 
+[INFO ] 2025-02-27 14:21:59.462 [main] MyStoreV1 - 
 ***************TestCase Buy Product started*****************
-[INFO ] 2025-02-25 15:31:51.689 [main] MyStoreV1 - User Email and Password entered.
-[INFO ] 2025-02-25 15:31:51.689 [main] MyStoreV1 - User Email and Password entered.
-[INFO ] 2025-02-25 15:31:53.308 [main] MyStoreV1 - Sign In link clicked
-[INFO ] 2025-02-25 15:31:53.308 [main] MyStoreV1 - Sign In link clicked
-[INFO ] 2025-02-25 15:31:53.448 [main] MyStoreV1 - T-shirt entered in search box
-[INFO ] 2025-02-25 15:31:53.448 [main] MyStoreV1 - T-shirt entered in search box
-[INFO ] 2025-02-25 15:31:54.834 [main] MyStoreV1 - clicked on search button
-[INFO ] 2025-02-25 15:31:54.834 [main] MyStoreV1 - clicked on search button
-[INFO ] 2025-02-25 15:31:57.088 [main] MyStoreV1 - Clicked on more button
-[INFO ] 2025-02-25 15:31:57.088 [main] MyStoreV1 - Clicked on more button
-[INFO ] 2025-02-25 15:32:01.424 [main] MyStoreV1 - size M entered
-[INFO ] 2025-02-25 15:32:01.424 [main] MyStoreV1 - size M entered
-[INFO ] 2025-02-25 15:32:01.715 [main] MyStoreV1 - quantity 2 entereed
-[INFO ] 2025-02-25 15:32:01.715 [main] MyStoreV1 - quantity 2 entereed
-[INFO ] 2025-02-25 15:32:03.328 [main] MyStoreV1 - Clicked on proceed to checkout on product page
-[INFO ] 2025-02-25 15:32:03.328 [main] MyStoreV1 - Clicked on proceed to checkout on product page
-[INFO ] 2025-02-25 15:32:04.652 [main] MyStoreV1 - Clicked on proceed to checkout on order summary page
-[INFO ] 2025-02-25 15:32:04.652 [main] MyStoreV1 - Clicked on proceed to checkout on order summary page
-[INFO ] 2025-02-25 15:32:14.774 [main] MyStoreV1 - 
+[INFO ] 2025-02-27 14:22:00.720 [main] MyStoreV1 - User Email and Password entered.
+[INFO ] 2025-02-27 14:22:00.720 [main] MyStoreV1 - User Email and Password entered.
+[INFO ] 2025-02-27 14:22:02.150 [main] MyStoreV1 - Sign In link clicked
+[INFO ] 2025-02-27 14:22:02.150 [main] MyStoreV1 - Sign In link clicked
+[INFO ] 2025-02-27 14:22:02.252 [main] MyStoreV1 - T-shirt entered in search box
+[INFO ] 2025-02-27 14:22:02.252 [main] MyStoreV1 - T-shirt entered in search box
+[INFO ] 2025-02-27 14:22:02.852 [main] MyStoreV1 - clicked on search button
+[INFO ] 2025-02-27 14:22:02.852 [main] MyStoreV1 - clicked on search button
+[INFO ] 2025-02-27 14:22:05.878 [main] MyStoreV1 - Clicked on more button
+[INFO ] 2025-02-27 14:22:05.878 [main] MyStoreV1 - Clicked on more button
+[INFO ] 2025-02-27 14:22:10.174 [main] MyStoreV1 - size M entered
+[INFO ] 2025-02-27 14:22:10.174 [main] MyStoreV1 - size M entered
+[INFO ] 2025-02-27 14:22:10.604 [main] MyStoreV1 - quantity 2 entereed
+[INFO ] 2025-02-27 14:22:10.604 [main] MyStoreV1 - quantity 2 entereed
+[INFO ] 2025-02-27 14:22:13.556 [main] MyStoreV1 - Clicked on proceed to checkout on product page
+[INFO ] 2025-02-27 14:22:13.556 [main] MyStoreV1 - Clicked on proceed to checkout on product page
+[INFO ] 2025-02-27 14:22:14.808 [main] MyStoreV1 - Clicked on proceed to checkout on order summary page
+[INFO ] 2025-02-27 14:22:14.808 [main] MyStoreV1 - Clicked on proceed to checkout on order summary page
+[INFO ] 2025-02-27 14:22:15.501 [main] MyStoreV1 - Clicked on proceed to checkout on order address page
+[INFO ] 2025-02-27 14:22:15.501 [main] MyStoreV1 - Clicked on proceed to checkout on order address page
+[INFO ] 2025-02-27 14:22:16.079 [main] MyStoreV1 - selecged term of service check box
+[INFO ] 2025-02-27 14:22:16.079 [main] MyStoreV1 - selecged term of service check box
+[INFO ] 2025-02-27 14:22:16.787 [main] MyStoreV1 - Clicked on proceed to checkout on order shipping page
+[INFO ] 2025-02-27 14:22:16.787 [main] MyStoreV1 - Clicked on proceed to checkout on order shipping page
+[INFO ] 2025-02-27 14:22:17.094 [main] MyStoreV1 - http://www.automationpractice.pl/index.php?controller=order
+[INFO ] 2025-02-27 14:22:17.094 [main] MyStoreV1 - http://www.automationpractice.pl/index.php?controller=order
+[INFO ] 2025-02-27 14:22:17.839 [main] MyStoreV1 - Clicked on pay by cheque
+[INFO ] 2025-02-27 14:22:17.839 [main] MyStoreV1 - Clicked on pay by cheque
+[INFO ] 2025-02-27 14:22:24.483 [main] MyStoreV1 - Clicked on confirmed order
+[INFO ] 2025-02-27 14:22:24.483 [main] MyStoreV1 - Clicked on confirmed order
+[INFO ] 2025-02-27 14:22:24.525 [main] MyStoreV1 - VerifyBuyProduct - Passed
+[INFO ] 2025-02-27 14:22:24.525 [main] MyStoreV1 - VerifyBuyProduct - Passed
+[INFO ] 2025-02-27 14:22:26.402 [main] MyStoreV1 - ***************TestCase BuyProduct ends*****************
+[INFO ] 2025-02-27 14:22:26.402 [main] MyStoreV1 - ***************TestCase BuyProduct ends*****************
+[INFO ] 2025-02-27 15:09:50.897 [main] MyStoreV1 - Url Opened
+[INFO ] 2025-02-27 15:09:50.897 [main] MyStoreV1 - Url Opened
+[INFO ] 2025-02-27 15:09:50.939 [main] MyStoreV1 - 
 ***************TestCase Search Product started*****************
-[INFO ] 2025-02-25 15:32:14.774 [main] MyStoreV1 - 
+[INFO ] 2025-02-27 15:09:50.939 [main] MyStoreV1 - 
 ***************TestCase Search Product started*****************
-[INFO ] 2025-02-25 15:34:51.049 [main] MyStoreV1 - Url Opened
-[INFO ] 2025-02-25 15:34:51.049 [main] MyStoreV1 - Url Opened
-[INFO ] 2025-02-25 15:34:51.110 [main] MyStoreV1 - 
+[INFO ] 2025-02-27 15:09:53.729 [main] MyStoreV1 - User Email and Password entered.
+[INFO ] 2025-02-27 15:09:53.729 [main] MyStoreV1 - User Email and Password entered.
+[INFO ] 2025-02-27 15:09:55.170 [main] MyStoreV1 - Sign In link clicked
+[INFO ] 2025-02-27 15:09:55.170 [main] MyStoreV1 - Sign In link clicked
+[INFO ] 2025-02-27 15:09:56.668 [main] MyStoreV1 - Search Product testcase - Passed
+[INFO ] 2025-02-27 15:09:56.668 [main] MyStoreV1 - Search Product testcase - Passed
+[INFO ] 2025-02-27 15:09:58.202 [main] MyStoreV1 - ***************TestCase Search Product ends*****************
+[INFO ] 2025-02-27 15:09:58.202 [main] MyStoreV1 - ***************TestCase Search Product ends*****************
+[INFO ] 2025-02-27 15:09:58.249 [main] MyStoreV1 - 
 ***************TestCase Buy Product started*****************
-[INFO ] 2025-02-25 15:34:51.110 [main] MyStoreV1 - 
+[INFO ] 2025-02-27 15:09:58.249 [main] MyStoreV1 - 
 ***************TestCase Buy Product started*****************
-[INFO ] 2025-02-25 15:34:52.577 [main] MyStoreV1 - User Email and Password entered.
-[INFO ] 2025-02-25 15:34:52.577 [main] MyStoreV1 - User Email and Password entered.
-[INFO ] 2025-02-25 15:34:53.911 [main] MyStoreV1 - Sign In link clicked
-[INFO ] 2025-02-25 15:34:53.911 [main] MyStoreV1 - Sign In link clicked
-[INFO ] 2025-02-25 15:34:54.069 [main] MyStoreV1 - T-shirt entered in search box
-[INFO ] 2025-02-25 15:34:54.069 [main] MyStoreV1 - T-shirt entered in search box
-[INFO ] 2025-02-25 15:34:54.603 [main] MyStoreV1 - clicked on search button
-[INFO ] 2025-02-25 15:34:54.603 [main] MyStoreV1 - clicked on search button
-[INFO ] 2025-02-25 15:35:00.370 [main] MyStoreV1 - Clicked on more button
-[INFO ] 2025-02-25 15:35:00.370 [main] MyStoreV1 - Clicked on more button
-[INFO ] 2025-02-25 15:35:04.687 [main] MyStoreV1 - size M entered
-[INFO ] 2025-02-25 15:35:04.687 [main] MyStoreV1 - size M entered
-[INFO ] 2025-02-25 15:35:05.025 [main] MyStoreV1 - quantity 2 entereed
-[INFO ] 2025-02-25 15:35:05.025 [main] MyStoreV1 - quantity 2 entereed
-[INFO ] 2025-02-25 15:35:06.421 [main] MyStoreV1 - Clicked on proceed to checkout on product page
-[INFO ] 2025-02-25 15:35:06.421 [main] MyStoreV1 - Clicked on proceed to checkout on product page
-[INFO ] 2025-02-25 15:35:07.870 [main] MyStoreV1 - Clicked on proceed to checkout on order summary page
-[INFO ] 2025-02-25 15:35:07.870 [main] MyStoreV1 - Clicked on proceed to checkout on order summary page
-[INFO ] 2025-02-25 15:35:18.011 [main] MyStoreV1 - 
-***************TestCase Search Product started*****************
-[INFO ] 2025-02-25 15:35:18.011 [main] MyStoreV1 - 
-***************TestCase Search Product started*****************
-[INFO ] 2025-02-25 15:35:45.776 [main] MyStoreV1 - Url Opened
-[INFO ] 2025-02-25 15:35:45.776 [main] MyStoreV1 - Url Opened
-[INFO ] 2025-02-25 15:35:45.834 [main] MyStoreV1 - 
-***************TestCase Buy Product started*****************
-[INFO ] 2025-02-25 15:35:45.834 [main] MyStoreV1 - 
-***************TestCase Buy Product started*****************
-[INFO ] 2025-02-25 15:35:47.415 [main] MyStoreV1 - User Email and Password entered.
-[INFO ] 2025-02-25 15:35:47.415 [main] MyStoreV1 - User Email and Password entered.
-[INFO ] 2025-02-25 15:35:48.881 [main] MyStoreV1 - Sign In link clicked
-[INFO ] 2025-02-25 15:35:48.881 [main] MyStoreV1 - Sign In link clicked
-[INFO ] 2025-02-25 15:35:49.024 [main] MyStoreV1 - T-shirt entered in search box
-[INFO ] 2025-02-25 15:35:49.024 [main] MyStoreV1 - T-shirt entered in search box
-[INFO ] 2025-02-25 15:35:50.247 [main] MyStoreV1 - clicked on search button
-[INFO ] 2025-02-25 15:35:50.247 [main] MyStoreV1 - clicked on search button
-[INFO ] 2025-02-25 15:36:00.435 [main] MyStoreV1 - 
-***************TestCase Search Product started*****************
-[INFO ] 2025-02-25 15:36:00.435 [main] MyStoreV1 - 
-***************TestCase Search Product started*****************
-[INFO ] 2025-02-25 15:36:48.232 [main] MyStoreV1 - Url Opened
-[INFO ] 2025-02-25 15:36:48.232 [main] MyStoreV1 - Url Opened
-[INFO ] 2025-02-25 15:36:48.297 [main] MyStoreV1 - 
-***************TestCase Buy Product started*****************
-[INFO ] 2025-02-25 15:36:48.297 [main] MyStoreV1 - 
-***************TestCase Buy Product started*****************
-[INFO ] 2025-02-25 15:36:50.036 [main] MyStoreV1 - User Email and Password entered.
-[INFO ] 2025-02-25 15:36:50.036 [main] MyStoreV1 - User Email and Password entered.
-[INFO ] 2025-02-25 15:36:51.393 [main] MyStoreV1 - Sign In link clicked
-[INFO ] 2025-02-25 15:36:51.393 [main] MyStoreV1 - Sign In link clicked
-[INFO ] 2025-02-25 15:36:51.542 [main] MyStoreV1 - T-shirt entered in search box
-[INFO ] 2025-02-25 15:36:51.542 [main] MyStoreV1 - T-shirt entered in search box
-[INFO ] 2025-02-25 15:36:52.170 [main] MyStoreV1 - clicked on search button
-[INFO ] 2025-02-25 15:36:52.170 [main] MyStoreV1 - clicked on search button
-[INFO ] 2025-02-25 15:36:55.090 [main] MyStoreV1 - Clicked on more button
-[INFO ] 2025-02-25 15:36:55.090 [main] MyStoreV1 - Clicked on more button
-[INFO ] 2025-02-25 15:36:59.414 [main] MyStoreV1 - size M entered
-[INFO ] 2025-02-25 15:36:59.414 [main] MyStoreV1 - size M entered
-[INFO ] 2025-02-25 15:36:59.775 [main] MyStoreV1 - quantity 2 entereed
-[INFO ] 2025-02-25 15:36:59.775 [main] MyStoreV1 - quantity 2 entereed
-[INFO ] 2025-02-25 15:37:01.244 [main] MyStoreV1 - Clicked on proceed to checkout on product page
-[INFO ] 2025-02-25 15:37:01.244 [main] MyStoreV1 - Clicked on proceed to checkout on product page
-[INFO ] 2025-02-25 15:37:02.417 [main] MyStoreV1 - Clicked on proceed to checkout on order summary page
-[INFO ] 2025-02-25 15:37:02.417 [main] MyStoreV1 - Clicked on proceed to checkout on order summary page
-[INFO ] 2025-02-25 15:37:02.959 [main] MyStoreV1 - Clicked on proceed to checkout on order address page
-[INFO ] 2025-02-25 15:37:02.959 [main] MyStoreV1 - Clicked on proceed to checkout on order address page
-[INFO ] 2025-02-25 15:37:03.506 [main] MyStoreV1 - selecged term of service check box
-[INFO ] 2025-02-25 15:37:03.506 [main] MyStoreV1 - selecged term of service check box
-[INFO ] 2025-02-25 15:37:04.122 [main] MyStoreV1 - Clicked on proceed to checkout on order shipping page
-[INFO ] 2025-02-25 15:37:04.122 [main] MyStoreV1 - Clicked on proceed to checkout on order shipping page
-[INFO ] 2025-02-25 15:37:04.463 [main] MyStoreV1 - http://www.automationpractice.pl/index.php?controller=order
-[INFO ] 2025-02-25 15:37:04.463 [main] MyStoreV1 - http://www.automationpractice.pl/index.php?controller=order
-[INFO ] 2025-02-25 15:37:05.221 [main] MyStoreV1 - Clicked on pay by cheque
-[INFO ] 2025-02-25 15:37:05.221 [main] MyStoreV1 - Clicked on pay by cheque
-[INFO ] 2025-02-25 15:37:11.962 [main] MyStoreV1 - Clicked on confirmed order
-[INFO ] 2025-02-25 15:37:11.962 [main] MyStoreV1 - Clicked on confirmed order
-[INFO ] 2025-02-25 15:37:12.035 [main] MyStoreV1 - VerifyBuyProduct - Failed
-[INFO ] 2025-02-25 15:37:12.035 [main] MyStoreV1 - VerifyBuyProduct - Failed
-[INFO ] 2025-02-25 15:37:12.370 [main] MyStoreV1 - 
-***************TestCase Search Product started*****************
-[INFO ] 2025-02-25 15:37:12.370 [main] MyStoreV1 - 
-***************TestCase Search Product started*****************
-[INFO ] 2025-02-25 15:46:38.269 [main] MyStoreV1 - Url Opened
-[INFO ] 2025-02-25 15:46:38.269 [main] MyStoreV1 - Url Opened
-[INFO ] 2025-02-25 15:46:38.317 [main] MyStoreV1 - 
-***************TestCase Buy Product started*****************
-[INFO ] 2025-02-25 15:46:38.317 [main] MyStoreV1 - 
-***************TestCase Buy Product started*****************
-[INFO ] 2025-02-25 15:46:40.038 [main] MyStoreV1 - User Email and Password entered.
-[INFO ] 2025-02-25 15:46:40.038 [main] MyStoreV1 - User Email and Password entered.
-[INFO ] 2025-02-25 15:46:41.592 [main] MyStoreV1 - Sign In link clicked
-[INFO ] 2025-02-25 15:46:41.592 [main] MyStoreV1 - Sign In link clicked
-[INFO ] 2025-02-25 15:46:41.753 [main] MyStoreV1 - T-shirt entered in search box
-[INFO ] 2025-02-25 15:46:41.753 [main] MyStoreV1 - T-shirt entered in search box
-[INFO ] 2025-02-25 15:46:43.216 [main] MyStoreV1 - clicked on search button
-[INFO ] 2025-02-25 15:46:43.216 [main] MyStoreV1 - clicked on search button
-[INFO ] 2025-02-25 15:46:48.173 [main] MyStoreV1 - Clicked on more button
-[INFO ] 2025-02-25 15:46:48.173 [main] MyStoreV1 - Clicked on more button
-[INFO ] 2025-02-25 15:46:52.490 [main] MyStoreV1 - size M entered
-[INFO ] 2025-02-25 15:46:52.490 [main] MyStoreV1 - size M entered
-[INFO ] 2025-02-25 15:46:52.816 [main] MyStoreV1 - quantity 2 entereed
-[INFO ] 2025-02-25 15:46:52.816 [main] MyStoreV1 - quantity 2 entereed
-[INFO ] 2025-02-25 15:46:54.447 [main] MyStoreV1 - Clicked on proceed to checkout on product page
-[INFO ] 2025-02-25 15:46:54.447 [main] MyStoreV1 - Clicked on proceed to checkout on product page
-[INFO ] 2025-02-25 15:46:55.576 [main] MyStoreV1 - Clicked on proceed to checkout on order summary page
-[INFO ] 2025-02-25 15:46:55.576 [main] MyStoreV1 - Clicked on proceed to checkout on order summary page
-[INFO ] 2025-02-25 15:46:56.718 [main] MyStoreV1 - Clicked on proceed to checkout on order address page
-[INFO ] 2025-02-25 15:46:56.718 [main] MyStoreV1 - Clicked on proceed to checkout on order address page
-[INFO ] 2025-02-25 15:46:56.856 [main] MyStoreV1 - selecged term of service check box
-[INFO ] 2025-02-25 15:46:56.856 [main] MyStoreV1 - selecged term of service check box
-[INFO ] 2025-02-25 15:46:57.904 [main] MyStoreV1 - Clicked on proceed to checkout on order shipping page
-[INFO ] 2025-02-25 15:46:57.904 [main] MyStoreV1 - Clicked on proceed to checkout on order shipping page
-[INFO ] 2025-02-25 15:46:57.925 [main] MyStoreV1 - http://www.automationpractice.pl/index.php?controller=order
-[INFO ] 2025-02-25 15:46:57.925 [main] MyStoreV1 - http://www.automationpractice.pl/index.php?controller=order
-[INFO ] 2025-02-25 15:46:58.688 [main] MyStoreV1 - Clicked on pay by cheque
-[INFO ] 2025-02-25 15:46:58.688 [main] MyStoreV1 - Clicked on pay by cheque
-[INFO ] 2025-02-25 15:47:05.261 [main] MyStoreV1 - Clicked on confirmed order
-[INFO ] 2025-02-25 15:47:05.261 [main] MyStoreV1 - Clicked on confirmed order
-[INFO ] 2025-02-25 15:47:05.334 [main] MyStoreV1 - VerifyBuyProduct - Passed
-[INFO ] 2025-02-25 15:47:05.334 [main] MyStoreV1 - VerifyBuyProduct - Passed
-[INFO ] 2025-02-25 15:47:06.805 [main] MyStoreV1 - ***************TestCase BuyProduct ends*****************
-[INFO ] 2025-02-25 15:47:06.805 [main] MyStoreV1 - ***************TestCase BuyProduct ends*****************
-[INFO ] 2025-02-25 15:47:06.871 [main] MyStoreV1 - 
-***************TestCase Search Product started*****************
-[INFO ] 2025-02-25 15:47:06.871 [main] MyStoreV1 - 
-***************TestCase Search Product started*****************
-[INFO ] 2025-02-25 15:47:08.023 [main] MyStoreV1 - User Email and Password entered.
-[INFO ] 2025-02-25 15:47:08.023 [main] MyStoreV1 - User Email and Password entered.
-[INFO ] 2025-02-25 15:47:09.386 [main] MyStoreV1 - Sign In link clicked
-[INFO ] 2025-02-25 15:47:09.386 [main] MyStoreV1 - Sign In link clicked
-[INFO ] 2025-02-25 15:47:10.573 [main] MyStoreV1 - Search Product testcase - Passed
-[INFO ] 2025-02-25 15:47:10.573 [main] MyStoreV1 - Search Product testcase - Passed
-[INFO ] 2025-02-25 15:47:11.886 [main] MyStoreV1 - ***************TestCase Search Product ends*****************
-[INFO ] 2025-02-25 15:47:11.886 [main] MyStoreV1 - ***************TestCase Search Product ends*****************
-[INFO ] 2025-02-25 15:59:05.612 [main] MyStoreV1 - Url Opened
-[INFO ] 2025-02-25 15:59:05.612 [main] MyStoreV1 - Url Opened
-[INFO ] 2025-02-25 15:59:05.642 [main] MyStoreV1 - 
-***************TestCase Buy Product started*****************
-[INFO ] 2025-02-25 15:59:05.642 [main] MyStoreV1 - 
-***************TestCase Buy Product started*****************
-[INFO ] 2025-02-25 15:59:09.816 [main] MyStoreV1 - User Email and Password entered.
-[INFO ] 2025-02-25 15:59:09.816 [main] MyStoreV1 - User Email and Password entered.
-[INFO ] 2025-02-25 15:59:11.052 [main] MyStoreV1 - Sign In link clicked
-[INFO ] 2025-02-25 15:59:11.052 [main] MyStoreV1 - Sign In link clicked
-[INFO ] 2025-02-25 15:59:11.157 [main] MyStoreV1 - T-shirt entered in search box
-[INFO ] 2025-02-25 15:59:11.157 [main] MyStoreV1 - T-shirt entered in search box
-[INFO ] 2025-02-25 15:59:12.150 [main] MyStoreV1 - clicked on search button
-[INFO ] 2025-02-25 15:59:12.150 [main] MyStoreV1 - clicked on search button
-[INFO ] 2025-02-25 15:59:14.600 [main] MyStoreV1 - Clicked on more button
-[INFO ] 2025-02-25 15:59:14.600 [main] MyStoreV1 - Clicked on more button
-[INFO ] 2025-02-25 15:59:18.800 [main] MyStoreV1 - size M entered
-[INFO ] 2025-02-25 15:59:18.800 [main] MyStoreV1 - size M entered
-[INFO ] 2025-02-25 15:59:19.068 [main] MyStoreV1 - quantity 2 entereed
-[INFO ] 2025-02-25 15:59:19.068 [main] MyStoreV1 - quantity 2 entereed
-[INFO ] 2025-02-25 15:59:20.947 [main] MyStoreV1 - Clicked on proceed to checkout on product page
-[INFO ] 2025-02-25 15:59:20.947 [main] MyStoreV1 - Clicked on proceed to checkout on product page
-[INFO ] 2025-02-25 15:59:22.309 [main] MyStoreV1 - Clicked on proceed to checkout on order summary page
-[INFO ] 2025-02-25 15:59:22.309 [main] MyStoreV1 - Clicked on proceed to checkout on order summary page
-[INFO ] 2025-02-25 15:59:23.431 [main] MyStoreV1 - Clicked on proceed to checkout on order address page
-[INFO ] 2025-02-25 15:59:23.431 [main] MyStoreV1 - Clicked on proceed to checkout on order address page
-[INFO ] 2025-02-25 15:59:23.563 [main] MyStoreV1 - selecged term of service check box
-[INFO ] 2025-02-25 15:59:23.563 [main] MyStoreV1 - selecged term of service check box
-[INFO ] 2025-02-25 15:59:24.411 [main] MyStoreV1 - Clicked on proceed to checkout on order shipping page
-[INFO ] 2025-02-25 15:59:24.411 [main] MyStoreV1 - Clicked on proceed to checkout on order shipping page
-[INFO ] 2025-02-25 15:59:24.428 [main] MyStoreV1 - http://www.automationpractice.pl/index.php?controller=order
-[INFO ] 2025-02-25 15:59:24.428 [main] MyStoreV1 - http://www.automationpractice.pl/index.php?controller=order
-[INFO ] 2025-02-25 15:59:25.035 [main] MyStoreV1 - Clicked on pay by cheque
-[INFO ] 2025-02-25 15:59:25.035 [main] MyStoreV1 - Clicked on pay by cheque
-[INFO ] 2025-02-25 15:59:31.560 [main] MyStoreV1 - Clicked on confirmed order
-[INFO ] 2025-02-25 15:59:31.560 [main] MyStoreV1 - Clicked on confirmed order
-[INFO ] 2025-02-25 15:59:31.604 [main] MyStoreV1 - VerifyBuyProduct - Passed
-[INFO ] 2025-02-25 15:59:31.604 [main] MyStoreV1 - VerifyBuyProduct - Passed
-[INFO ] 2025-02-25 15:59:32.814 [main] MyStoreV1 - ***************TestCase BuyProduct ends*****************
-[INFO ] 2025-02-25 15:59:32.814 [main] MyStoreV1 - ***************TestCase BuyProduct ends*****************
-[INFO ] 2025-02-25 15:59:32.849 [main] MyStoreV1 - 
-***************TestCase Search Product started*****************
-[INFO ] 2025-02-25 15:59:32.849 [main] MyStoreV1 - 
-***************TestCase Search Product started*****************
-[INFO ] 2025-02-25 15:59:33.710 [main] MyStoreV1 - User Email and Password entered.
-[INFO ] 2025-02-25 15:59:33.710 [main] MyStoreV1 - User Email and Password entered.
-[INFO ] 2025-02-25 15:59:34.632 [main] MyStoreV1 - Sign In link clicked
-[INFO ] 2025-02-25 15:59:34.632 [main] MyStoreV1 - Sign In link clicked
-[INFO ] 2025-02-25 15:59:35.377 [main] MyStoreV1 - Search Product testcase - Passed
-[INFO ] 2025-02-25 15:59:35.377 [main] MyStoreV1 - Search Product testcase - Passed
-[INFO ] 2025-02-25 15:59:36.302 [main] MyStoreV1 - ***************TestCase Search Product ends*****************
-[INFO ] 2025-02-25 15:59:36.302 [main] MyStoreV1 - ***************TestCase Search Product ends*****************
-[INFO ] 2025-02-25 16:01:37.534 [main] MyStoreV1 - Url Opened
-[INFO ] 2025-02-25 16:01:37.534 [main] MyStoreV1 - Url Opened
-[INFO ] 2025-02-25 16:01:37.558 [main] MyStoreV1 - 
-***************TestCase Buy Product started*****************
-[INFO ] 2025-02-25 16:01:37.558 [main] MyStoreV1 - 
-***************TestCase Buy Product started*****************
-[INFO ] 2025-02-25 16:01:38.916 [main] MyStoreV1 - User Email and Password entered.
-[INFO ] 2025-02-25 16:01:38.916 [main] MyStoreV1 - User Email and Password entered.
-[INFO ] 2025-02-25 16:01:40.099 [main] MyStoreV1 - Sign In link clicked
-[INFO ] 2025-02-25 16:01:40.099 [main] MyStoreV1 - Sign In link clicked
-[INFO ] 2025-02-25 16:01:40.198 [main] MyStoreV1 - T-shirt entered in search box
-[INFO ] 2025-02-25 16:01:40.198 [main] MyStoreV1 - T-shirt entered in search box
-[INFO ] 2025-02-25 16:01:41.318 [main] MyStoreV1 - clicked on search button
-[INFO ] 2025-02-25 16:01:41.318 [main] MyStoreV1 - clicked on search button
-[INFO ] 2025-02-25 16:01:44.121 [main] MyStoreV1 - Clicked on more button
-[INFO ] 2025-02-25 16:01:44.121 [main] MyStoreV1 - Clicked on more button
-[INFO ] 2025-02-25 16:01:48.317 [main] MyStoreV1 - size M entered
-[INFO ] 2025-02-25 16:01:48.317 [main] MyStoreV1 - size M entered
-[INFO ] 2025-02-25 16:01:48.607 [main] MyStoreV1 - quantity 2 entereed
-[INFO ] 2025-02-25 16:01:48.607 [main] MyStoreV1 - quantity 2 entereed
-[INFO ] 2025-02-25 16:01:50.271 [main] MyStoreV1 - Clicked on proceed to checkout on product page
-[INFO ] 2025-02-25 16:01:50.271 [main] MyStoreV1 - Clicked on proceed to checkout on product page
-[INFO ] 2025-02-25 16:01:51.318 [main] MyStoreV1 - Clicked on proceed to checkout on order summary page
-[INFO ] 2025-02-25 16:01:51.318 [main] MyStoreV1 - Clicked on proceed to checkout on order summary page
-[INFO ] 2025-02-25 16:01:51.886 [main] MyStoreV1 - Clicked on proceed to checkout on order address page
-[INFO ] 2025-02-25 16:01:51.886 [main] MyStoreV1 - Clicked on proceed to checkout on order address page
-[INFO ] 2025-02-25 16:01:52.263 [main] MyStoreV1 - selecged term of service check box
-[INFO ] 2025-02-25 16:01:52.263 [main] MyStoreV1 - selecged term of service check box
-[INFO ] 2025-02-25 16:01:52.823 [main] MyStoreV1 - Clicked on proceed to checkout on order shipping page
-[INFO ] 2025-02-25 16:01:52.823 [main] MyStoreV1 - Clicked on proceed to checkout on order shipping page
-[INFO ] 2025-02-25 16:01:53.059 [main] MyStoreV1 - http://www.automationpractice.pl/index.php?controller=order
-[INFO ] 2025-02-25 16:01:53.059 [main] MyStoreV1 - http://www.automationpractice.pl/index.php?controller=order
-[INFO ] 2025-02-25 16:01:53.633 [main] MyStoreV1 - Clicked on pay by cheque
-[INFO ] 2025-02-25 16:01:53.633 [main] MyStoreV1 - Clicked on pay by cheque
-[INFO ] 2025-02-25 16:02:00.118 [main] MyStoreV1 - Clicked on confirmed order
-[INFO ] 2025-02-25 16:02:00.118 [main] MyStoreV1 - Clicked on confirmed order
-[INFO ] 2025-02-25 16:02:00.156 [main] MyStoreV1 - VerifyBuyProduct - Failed
-[INFO ] 2025-02-25 16:02:00.156 [main] MyStoreV1 - VerifyBuyProduct - Failed
-[INFO ] 2025-02-25 16:02:00.406 [main] MyStoreV1 - 
-***************TestCase Search Product started*****************
-[INFO ] 2025-02-25 16:02:00.406 [main] MyStoreV1 - 
-***************TestCase Search Product started*****************
-[INFO ] 2025-02-25 16:10:12.459 [main] MyStoreV1 - Url Opened
-[INFO ] 2025-02-25 16:10:12.459 [main] MyStoreV1 - Url Opened
-[INFO ] 2025-02-25 16:10:12.492 [main] MyStoreV1 - 
-***************TestCase Buy Product started*****************
-[INFO ] 2025-02-25 16:10:12.492 [main] MyStoreV1 - 
-***************TestCase Buy Product started*****************
-[INFO ] 2025-02-25 16:10:14.266 [main] MyStoreV1 - User Email and Password entered.
-[INFO ] 2025-02-25 16:10:14.266 [main] MyStoreV1 - User Email and Password entered.
-[INFO ] 2025-02-25 16:10:15.676 [main] MyStoreV1 - Sign In link clicked
-[INFO ] 2025-02-25 16:10:15.676 [main] MyStoreV1 - Sign In link clicked
-[INFO ] 2025-02-25 16:10:15.774 [main] MyStoreV1 - T-shirt entered in search box
-[INFO ] 2025-02-25 16:10:15.774 [main] MyStoreV1 - T-shirt entered in search box
-[INFO ] 2025-02-25 16:10:17.184 [main] MyStoreV1 - clicked on search button
-[INFO ] 2025-02-25 16:10:17.184 [main] MyStoreV1 - clicked on search button
-[INFO ] 2025-02-25 16:10:19.541 [main] MyStoreV1 - Clicked on more button
-[INFO ] 2025-02-25 16:10:19.541 [main] MyStoreV1 - Clicked on more button
-[INFO ] 2025-02-25 16:10:23.737 [main] MyStoreV1 - size M entered
-[INFO ] 2025-02-25 16:10:23.737 [main] MyStoreV1 - size M entered
-[INFO ] 2025-02-25 16:10:24.045 [main] MyStoreV1 - quantity 2 entereed
-[INFO ] 2025-02-25 16:10:24.045 [main] MyStoreV1 - quantity 2 entereed
-[INFO ] 2025-02-25 16:10:25.692 [main] MyStoreV1 - Clicked on proceed to checkout on product page
-[INFO ] 2025-02-25 16:10:25.692 [main] MyStoreV1 - Clicked on proceed to checkout on product page
-[INFO ] 2025-02-25 16:10:27.156 [main] MyStoreV1 - Clicked on proceed to checkout on order summary page
-[INFO ] 2025-02-25 16:10:27.156 [main] MyStoreV1 - Clicked on proceed to checkout on order summary page
-[INFO ] 2025-02-25 16:10:27.692 [main] MyStoreV1 - Clicked on proceed to checkout on order address page
-[INFO ] 2025-02-25 16:10:27.692 [main] MyStoreV1 - Clicked on proceed to checkout on order address page
-[INFO ] 2025-02-25 16:10:28.073 [main] MyStoreV1 - selecged term of service check box
-[INFO ] 2025-02-25 16:10:28.073 [main] MyStoreV1 - selecged term of service check box
-[INFO ] 2025-02-25 16:10:28.980 [main] MyStoreV1 - Clicked on proceed to checkout on order shipping page
-[INFO ] 2025-02-25 16:10:28.980 [main] MyStoreV1 - Clicked on proceed to checkout on order shipping page
-[INFO ] 2025-02-25 16:10:28.988 [main] MyStoreV1 - http://www.automationpractice.pl/index.php?controller=order
-[INFO ] 2025-02-25 16:10:28.988 [main] MyStoreV1 - http://www.automationpractice.pl/index.php?controller=order
-[INFO ] 2025-02-25 16:10:29.620 [main] MyStoreV1 - Clicked on pay by cheque
-[INFO ] 2025-02-25 16:10:29.620 [main] MyStoreV1 - Clicked on pay by cheque
-[INFO ] 2025-02-25 16:10:36.189 [main] MyStoreV1 - Clicked on confirmed order
-[INFO ] 2025-02-25 16:10:36.189 [main] MyStoreV1 - Clicked on confirmed order
-[INFO ] 2025-02-25 16:10:36.239 [main] MyStoreV1 - VerifyBuyProduct - Failed
-[INFO ] 2025-02-25 16:10:36.239 [main] MyStoreV1 - VerifyBuyProduct - Failed
-[INFO ] 2025-02-25 16:10:36.493 [main] MyStoreV1 - 
-***************TestCase Search Product started*****************
-[INFO ] 2025-02-25 16:10:36.493 [main] MyStoreV1 - 
-***************TestCase Search Product started*****************
-[INFO ] 2025-02-25 16:15:33.160 [main] MyStoreV1 - Url Opened
-[INFO ] 2025-02-25 16:15:33.160 [main] MyStoreV1 - Url Opened
-[INFO ] 2025-02-25 16:15:33.196 [main] MyStoreV1 - 
-***************TestCase Buy Product started*****************
-[INFO ] 2025-02-25 16:15:33.196 [main] MyStoreV1 - 
-***************TestCase Buy Product started*****************
-[INFO ] 2025-02-25 16:15:34.493 [main] MyStoreV1 - User Email and Password entered.
-[INFO ] 2025-02-25 16:15:34.493 [main] MyStoreV1 - User Email and Password entered.
-[INFO ] 2025-02-25 16:15:35.740 [main] MyStoreV1 - Sign In link clicked
-[INFO ] 2025-02-25 16:15:35.740 [main] MyStoreV1 - Sign In link clicked
-[INFO ] 2025-02-25 16:15:35.838 [main] MyStoreV1 - T-shirt entered in search box
-[INFO ] 2025-02-25 16:15:35.838 [main] MyStoreV1 - T-shirt entered in search box
-[INFO ] 2025-02-25 16:15:37.144 [main] MyStoreV1 - clicked on search button
-[INFO ] 2025-02-25 16:15:37.144 [main] MyStoreV1 - clicked on search button
-[INFO ] 2025-02-25 16:15:40.117 [main] MyStoreV1 - Clicked on more button
-[INFO ] 2025-02-25 16:15:40.117 [main] MyStoreV1 - Clicked on more button
-[INFO ] 2025-02-25 16:15:44.299 [main] MyStoreV1 - size M entered
-[INFO ] 2025-02-25 16:15:44.299 [main] MyStoreV1 - size M entered
-[INFO ] 2025-02-25 16:15:44.571 [main] MyStoreV1 - quantity 2 entereed
-[INFO ] 2025-02-25 16:15:44.571 [main] MyStoreV1 - quantity 2 entereed
-[INFO ] 2025-02-25 16:15:46.008 [main] MyStoreV1 - Clicked on proceed to checkout on product page
-[INFO ] 2025-02-25 16:15:46.008 [main] MyStoreV1 - Clicked on proceed to checkout on product page
-[INFO ] 2025-02-25 16:15:47.199 [main] MyStoreV1 - Clicked on proceed to checkout on order summary page
-[INFO ] 2025-02-25 16:15:47.199 [main] MyStoreV1 - Clicked on proceed to checkout on order summary page
-[INFO ] 2025-02-25 16:15:47.783 [main] MyStoreV1 - Clicked on proceed to checkout on order address page
-[INFO ] 2025-02-25 16:15:47.783 [main] MyStoreV1 - Clicked on proceed to checkout on order address page
-[INFO ] 2025-02-25 16:15:48.203 [main] MyStoreV1 - selecged term of service check box
-[INFO ] 2025-02-25 16:15:48.203 [main] MyStoreV1 - selecged term of service check box
-[INFO ] 2025-02-25 16:15:48.719 [main] MyStoreV1 - Clicked on proceed to checkout on order shipping page
-[INFO ] 2025-02-25 16:15:48.719 [main] MyStoreV1 - Clicked on proceed to checkout on order shipping page
-[INFO ] 2025-02-25 16:15:48.966 [main] MyStoreV1 - http://www.automationpractice.pl/index.php?controller=order
-[INFO ] 2025-02-25 16:15:48.966 [main] MyStoreV1 - http://www.automationpractice.pl/index.php?controller=order
-[INFO ] 2025-02-25 16:15:49.503 [main] MyStoreV1 - Clicked on pay by cheque
-[INFO ] 2025-02-25 16:15:49.503 [main] MyStoreV1 - Clicked on pay by cheque
-[INFO ] 2025-02-25 16:15:55.987 [main] MyStoreV1 - Clicked on confirmed order
-[INFO ] 2025-02-25 16:15:55.987 [main] MyStoreV1 - Clicked on confirmed order
-[INFO ] 2025-02-25 16:15:56.030 [main] MyStoreV1 - VerifyBuyProduct - Failed
-[INFO ] 2025-02-25 16:15:56.030 [main] MyStoreV1 - VerifyBuyProduct - Failed
-[INFO ] 2025-02-25 16:15:56.260 [main] MyStoreV1 - 
-***************TestCase Search Product started*****************
-[INFO ] 2025-02-25 16:15:56.260 [main] MyStoreV1 - 
-***************TestCase Search Product started*****************
-[INFO ] 2025-02-25 16:19:16.918 [main] MyStoreV1 - Url Opened
-[INFO ] 2025-02-25 16:19:16.918 [main] MyStoreV1 - Url Opened
-[INFO ] 2025-02-25 16:19:16.948 [main] MyStoreV1 - 
-***************TestCase Search Product started*****************
-[INFO ] 2025-02-25 16:19:16.948 [main] MyStoreV1 - 
-***************TestCase Search Product started*****************
-[INFO ] 2025-02-25 16:19:18.406 [main] MyStoreV1 - User Email and Password entered.
-[INFO ] 2025-02-25 16:19:18.406 [main] MyStoreV1 - User Email and Password entered.
-[INFO ] 2025-02-25 16:19:19.637 [main] MyStoreV1 - Sign In link clicked
-[INFO ] 2025-02-25 16:19:19.637 [main] MyStoreV1 - Sign In link clicked
-[INFO ] 2025-02-25 16:19:21.410 [main] MyStoreV1 - Search Product testcase - Passed
-[INFO ] 2025-02-25 16:19:21.410 [main] MyStoreV1 - Search Product testcase - Passed
-[INFO ] 2025-02-25 16:19:22.382 [main] MyStoreV1 - ***************TestCase Search Product ends*****************
-[INFO ] 2025-02-25 16:19:22.382 [main] MyStoreV1 - ***************TestCase Search Product ends*****************
-[INFO ] 2025-02-25 16:19:22.421 [main] MyStoreV1 - 
-***************TestCase Buy Product started*****************
-[INFO ] 2025-02-25 16:19:22.421 [main] MyStoreV1 - 
-***************TestCase Buy Product started*****************
-[INFO ] 2025-02-25 16:19:23.836 [main] MyStoreV1 - User Email and Password entered.
-[INFO ] 2025-02-25 16:19:23.836 [main] MyStoreV1 - User Email and Password entered.
-[INFO ] 2025-02-25 16:19:25.050 [main] MyStoreV1 - Sign In link clicked
-[INFO ] 2025-02-25 16:19:25.050 [main] MyStoreV1 - Sign In link clicked
-[INFO ] 2025-02-25 16:19:25.112 [main] MyStoreV1 - T-shirt entered in search box
-[INFO ] 2025-02-25 16:19:25.112 [main] MyStoreV1 - T-shirt entered in search box
-[INFO ] 2025-02-25 16:19:25.890 [main] MyStoreV1 - clicked on search button
-[INFO ] 2025-02-25 16:19:25.890 [main] MyStoreV1 - clicked on search button
-[INFO ] 2025-02-25 16:19:33.039 [main] MyStoreV1 - Clicked on more button
-[INFO ] 2025-02-25 16:19:33.039 [main] MyStoreV1 - Clicked on more button
-[INFO ] 2025-02-25 16:19:37.223 [main] MyStoreV1 - size M entered
-[INFO ] 2025-02-25 16:19:37.223 [main] MyStoreV1 - size M entered
-[INFO ] 2025-02-25 16:19:37.500 [main] MyStoreV1 - quantity 2 entereed
-[INFO ] 2025-02-25 16:19:37.500 [main] MyStoreV1 - quantity 2 entereed
-[INFO ] 2025-02-25 16:19:39.473 [main] MyStoreV1 - Clicked on proceed to checkout on product page
-[INFO ] 2025-02-25 16:19:39.473 [main] MyStoreV1 - Clicked on proceed to checkout on product page
-[INFO ] 2025-02-25 16:19:40.612 [main] MyStoreV1 - Clicked on proceed to checkout on order summary page
-[INFO ] 2025-02-25 16:19:40.612 [main] MyStoreV1 - Clicked on proceed to checkout on order summary page
-[INFO ] 2025-02-25 16:19:41.660 [main] MyStoreV1 - Clicked on proceed to checkout on order address page
-[INFO ] 2025-02-25 16:19:41.660 [main] MyStoreV1 - Clicked on proceed to checkout on order address page
-[INFO ] 2025-02-25 16:19:41.758 [main] MyStoreV1 - selecged term of service check box
-[INFO ] 2025-02-25 16:19:41.758 [main] MyStoreV1 - selecged term of service check box
-[INFO ] 2025-02-25 16:19:43.329 [main] MyStoreV1 - Clicked on proceed to checkout on order shipping page
-[INFO ] 2025-02-25 16:19:43.329 [main] MyStoreV1 - Clicked on proceed to checkout on order shipping page
-[INFO ] 2025-02-25 16:19:43.339 [main] MyStoreV1 - http://www.automationpractice.pl/index.php?controller=order
-[INFO ] 2025-02-25 16:19:43.339 [main] MyStoreV1 - http://www.automationpractice.pl/index.php?controller=order
-[INFO ] 2025-02-25 16:19:44.830 [main] MyStoreV1 - Clicked on pay by cheque
-[INFO ] 2025-02-25 16:19:44.830 [main] MyStoreV1 - Clicked on pay by cheque
-[INFO ] 2025-02-25 16:19:52.148 [main] MyStoreV1 - Clicked on confirmed order
-[INFO ] 2025-02-25 16:19:52.148 [main] MyStoreV1 - Clicked on confirmed order
-[INFO ] 2025-02-25 16:19:52.182 [main] MyStoreV1 - VerifyBuyProduct - Failed
-[INFO ] 2025-02-25 16:19:52.182 [main] MyStoreV1 - VerifyBuyProduct - Failed
-[INFO ] 2025-02-25 16:21:19.184 [main] MyStoreV1 - Url Opened
-[INFO ] 2025-02-25 16:21:19.184 [main] MyStoreV1 - Url Opened
-[INFO ] 2025-02-25 16:21:19.215 [main] MyStoreV1 - 
-***************TestCase Search Product started*****************
-[INFO ] 2025-02-25 16:21:19.215 [main] MyStoreV1 - 
-***************TestCase Search Product started*****************
-[INFO ] 2025-02-25 16:21:20.481 [main] MyStoreV1 - User Email and Password entered.
-[INFO ] 2025-02-25 16:21:20.481 [main] MyStoreV1 - User Email and Password entered.
-[INFO ] 2025-02-25 16:21:21.639 [main] MyStoreV1 - Sign In link clicked
-[INFO ] 2025-02-25 16:21:21.639 [main] MyStoreV1 - Sign In link clicked
-[INFO ] 2025-02-25 16:21:32.978 [main] MyStoreV1 - 
-***************TestCase Buy Product started*****************
-[INFO ] 2025-02-25 16:21:32.978 [main] MyStoreV1 - 
-***************TestCase Buy Product started*****************
-[INFO ] 2025-02-25 16:23:44.347 [main] MyStoreV1 - Url Opened
-[INFO ] 2025-02-25 16:23:44.347 [main] MyStoreV1 - Url Opened
-[INFO ] 2025-02-25 16:23:44.376 [main] MyStoreV1 - 
-***************TestCase Search Product started*****************
-[INFO ] 2025-02-25 16:23:44.376 [main] MyStoreV1 - 
-***************TestCase Search Product started*****************
-[INFO ] 2025-02-25 16:23:45.603 [main] MyStoreV1 - User Email and Password entered.
-[INFO ] 2025-02-25 16:23:45.603 [main] MyStoreV1 - User Email and Password entered.
-[INFO ] 2025-02-25 16:23:46.838 [main] MyStoreV1 - Sign In link clicked
-[INFO ] 2025-02-25 16:23:46.838 [main] MyStoreV1 - Sign In link clicked
-[INFO ] 2025-02-25 16:23:57.586 [main] MyStoreV1 - 
-***************TestCase Buy Product started*****************
-[INFO ] 2025-02-25 16:23:57.586 [main] MyStoreV1 - 
-***************TestCase Buy Product started*****************
+[INFO ] 2025-02-27 15:09:59.551 [main] MyStoreV1 - User Email and Password entered.
+[INFO ] 2025-02-27 15:09:59.551 [main] MyStoreV1 - User Email and Password entered.
+[INFO ] 2025-02-27 15:10:01.892 [main] MyStoreV1 - Sign In link clicked
+[INFO ] 2025-02-27 15:10:01.892 [main] MyStoreV1 - Sign In link clicked
+[INFO ] 2025-02-27 15:10:02.066 [main] MyStoreV1 - T-shirt entered in search box
+[INFO ] 2025-02-27 15:10:02.066 [main] MyStoreV1 - T-shirt entered in search box
+[INFO ] 2025-02-27 15:10:03.243 [main] MyStoreV1 - clicked on search button
+[INFO ] 2025-02-27 15:10:03.243 [main] MyStoreV1 - clicked on search button
+[INFO ] 2025-02-27 15:10:06.300 [main] MyStoreV1 - Clicked on more button
+[INFO ] 2025-02-27 15:10:06.300 [main] MyStoreV1 - Clicked on more button
+[INFO ] 2025-02-27 15:10:10.584 [main] MyStoreV1 - size M entered
+[INFO ] 2025-02-27 15:10:10.584 [main] MyStoreV1 - size M entered
+[INFO ] 2025-02-27 15:10:10.929 [main] MyStoreV1 - quantity 2 entereed
+[INFO ] 2025-02-27 15:10:10.929 [main] MyStoreV1 - quantity 2 entereed
+[INFO ] 2025-02-27 15:10:12.695 [main] MyStoreV1 - Clicked on proceed to checkout on product page
+[INFO ] 2025-02-27 15:10:12.695 [main] MyStoreV1 - Clicked on proceed to checkout on product page
+[INFO ] 2025-02-27 15:10:14.212 [main] MyStoreV1 - Clicked on proceed to checkout on order summary page
+[INFO ] 2025-02-27 15:10:14.212 [main] MyStoreV1 - Clicked on proceed to checkout on order summary page
+[INFO ] 2025-02-27 15:10:15.613 [main] MyStoreV1 - Clicked on proceed to checkout on order address page
+[INFO ] 2025-02-27 15:10:15.613 [main] MyStoreV1 - Clicked on proceed to checkout on order address page
+[INFO ] 2025-02-27 15:10:15.914 [main] MyStoreV1 - selecged term of service check box
+[INFO ] 2025-02-27 15:10:15.914 [main] MyStoreV1 - selecged term of service check box
+[INFO ] 2025-02-27 15:10:17.024 [main] MyStoreV1 - Clicked on proceed to checkout on order shipping page
+[INFO ] 2025-02-27 15:10:17.024 [main] MyStoreV1 - Clicked on proceed to checkout on order shipping page
+[INFO ] 2025-02-27 15:10:17.056 [main] MyStoreV1 - http://www.automationpractice.pl/index.php?controller=order
+[INFO ] 2025-02-27 15:10:17.056 [main] MyStoreV1 - http://www.automationpractice.pl/index.php?controller=order
+[INFO ] 2025-02-27 15:10:18.147 [main] MyStoreV1 - Clicked on pay by cheque
+[INFO ] 2025-02-27 15:10:18.147 [main] MyStoreV1 - Clicked on pay by cheque
+[INFO ] 2025-02-27 15:10:25.146 [main] MyStoreV1 - Clicked on confirmed order
+[INFO ] 2025-02-27 15:10:25.146 [main] MyStoreV1 - Clicked on confirmed order
+[INFO ] 2025-02-27 15:10:25.191 [main] MyStoreV1 - VerifyBuyProduct - Passed
+[INFO ] 2025-02-27 15:10:25.191 [main] MyStoreV1 - VerifyBuyProduct - Passed
+[INFO ] 2025-02-27 15:10:26.992 [main] MyStoreV1 - ***************TestCase BuyProduct ends*****************
+[INFO ] 2025-02-27 15:10:26.992 [main] MyStoreV1 - ***************TestCase BuyProduct ends*****************

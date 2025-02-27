@@ -39,6 +39,9 @@
 						</suiteXmlFiles>
 					</configuration>
 				</plugin>
+				
+
+
 			</plugins>
 		</pluginManagement>
 	</build>
@@ -50,6 +53,13 @@
 			<version>3.8.1</version>
 			<scope>test</scope>
 		</dependency>
+		<dependency>
+    <groupId>org.projectlombok</groupId>
+    <artifactId>lombok</artifactId>
+    <version>1.18.30</version> <!-- Use the latest available version -->
+    <scope>provided</scope>
+</dependency>
+
 
 		<!-- https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager -->
 					<dependency>
