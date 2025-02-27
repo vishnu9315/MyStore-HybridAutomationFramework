@@ -20,4 +20,8 @@ public class IndexPage {
 	public void clickSignIn() {
 		signIn.click();
 	}
+	
+	public String getPageTitle() {
+		return (ldriver.getTitle());
+	}
 }

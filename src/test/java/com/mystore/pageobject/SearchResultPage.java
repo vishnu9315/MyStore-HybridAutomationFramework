@@ -17,10 +17,17 @@ WebDriver ldriver;
 	@FindBy(xpath = "/html[1]/body[1]/div[1]/div[2]/div[1]/div[3]/div[2]/ul[1]/li[1]/div[1]/div[2]/h5[1]/a[1]")
 	WebElement result;
 	
+	@FindBy(xpath = "//a[@title='View']")
+	WebElement more;
+	
 	
 	public String getSearchResultProductName() {
 		
 		return result.getText();
+	}
+	
+	public void ClickOnMoreBtn() {
+		more.click();
 	}
 	
 	 

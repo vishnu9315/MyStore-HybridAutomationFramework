@@ -11,6 +11,7 @@
           <include name="tearDown"/>
           <include name="VerifySearchProduct"/>
           <include name="setUp"/>
+          <include name="VerifyBuyProduct"/>
         </methods>
       </class> <!-- com.mystore.testcases.TC_ProductPageTest -->
     </classes>

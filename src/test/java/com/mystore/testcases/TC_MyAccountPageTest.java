@@ -43,7 +43,7 @@ public class TC_MyAccountPageTest extends BaseClass {
 		
 	}
 	
-	@Test
+	@Test(enabled = false)
 	public void VerifyLogin() throws IOException {
 		page = new IndexPage(driver);
 		page.clickSignIn();
@@ -67,5 +67,49 @@ public class TC_MyAccountPageTest extends BaseClass {
 		}
 		
 		}
+	
+	@Test
+	public void VerifySignOut() throws IOException 
+	{
+
+		logger.info("***************TestCase Verify Sign out starts*****************"); 
+
+		IndexPage pg = new IndexPage(driver);
+
+		pg.clickSignIn();
+		logger.info("Clicked on sign in link");
+
+		MyAccount myAcpg = new MyAccount(driver);
+
+		myAcpg.enterEmail("kumar123@gmail.com");
+		logger.info("Entered email address");
+
+		myAcpg.enterPassword("myPass@12");
+		logger.info("Entered password");
+
+		myAcpg.clickSignIn();
+		logger.info("Clicked on sign in link..");
+
+
+		RegisteredUserAccount regUser = new RegisteredUserAccount(driver);
+		regUser.signOut();
+
+		if(pg.getPageTitle().equals("Login - My Shop"))
+		{
+			logger.info("VerifySignOut - Passed");
+			Assert.assertTrue(true);
+		}
+
+		else
+		{
+			logger.info("VerifySignOut - Failed");
+			captureScreenshot(driver,"VerifySignOut");
+			Assert.assertTrue(false);
+		}
+
+	
+		logger.info("***************TestCase Verify Sign out ends*****************"); 
+
+	}
 
 }

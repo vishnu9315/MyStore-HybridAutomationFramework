@@ -79,7 +79,7 @@ public class BaseClass {
         // Format timestamp for unique filename
 //        String timestamp = new SimpleDateFormat("yyyyMMdd_HHmmss").format(new Date());
            String filePath = System.getProperty("user.dir") + "//screenshot//" + testName + ".png";
-
+           System.out.println(filePath + "of the screenshto");
             // Take screenshot
             File srcFile = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
             // Save screenshot

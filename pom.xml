@@ -112,10 +112,6 @@
 		</dependency>
 
 
-		<dependency>
-			<groupId>Api</groupId>
-			<artifactId>Api</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
+	
 	</dependencies>
 </project>

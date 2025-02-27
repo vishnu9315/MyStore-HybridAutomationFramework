@@ -28,9 +28,10 @@ public class MyAccount {
 	WebElement passwd;
 	
 	
-	
 	@FindBy(id = "SubmitLogin")
 	WebElement SubmitLogin;
+	
+	
 	
 	
 	
